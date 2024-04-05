@@ -12,7 +12,9 @@ Uma biblioteca pequena de uma escola estadual de ensino fundamental e médio des
   - Facilitar o rastreio dos volumes.
 # Desenvolvimento
 ## Requistos Funcionais
-
+- [emprestar livro](./documents/req_funcionais/UC01-emprestar%20livro.md)
+- [renovar empréstimo]()
+- [suspensão de empréstimos]()
 ## Requisitos não funcionais
 
 # Créditos
